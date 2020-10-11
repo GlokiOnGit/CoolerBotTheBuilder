@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DigitalChannel;
 import com.qualcomm.robotcore.hardware.DistanceSensor;
 import com.qualcomm.robotcore.hardware.Gyroscope;
 import com.qualcomm.robotcore.hardware.Servo;
-//hi
+//hi peeps
 public class Leggo extends LinearOpMode {
     private Gyroscope imu;
     private DcMotor motorTest;
