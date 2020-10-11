@@ -19,6 +19,7 @@ public class Leggo extends LinearOpMode {
     //im here
     //good
     //Now for the laptop
+    //now desktop
     @Override
     public void runOpMode() {
         imu = hardwareMap.get(Gyroscope.class, "imu");
