@@ -6,21 +6,14 @@ import com.qualcomm.robotcore.hardware.DigitalChannel;
 import com.qualcomm.robotcore.hardware.DistanceSensor;
 import com.qualcomm.robotcore.hardware.Gyroscope;
 import com.qualcomm.robotcore.hardware.Servo;
-//hi peeps
+
 public class Leggo extends LinearOpMode {
     private Gyroscope imu;
     private DcMotor motorTest;
     private DigitalChannel digitalTouch;
     private DistanceSensor sensorColorRange;
     private Servo servoTest;
-    //Hey there
-    //Hey :)
-    //Pls respond
-    //im here
-    //good
-    //Now for the laptop
-    //now desktop
-    //now lap
+
     @Override
     public void runOpMode() {
         imu = hardwareMap.get(Gyroscope.class, "imu");
