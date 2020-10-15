@@ -1,0 +1,21 @@
+Even lokaal  wat er nog moet geprogrammeerd:
+
+Driver period:
+    Besturing (ook voor mecanum)
+    Richten
+        Simpel: handmatig
+            Camera monteren voor zicht
+        Leuk: automatisch
+    In en uitvoer
+        Beide zijn hetzelfde mechanisme, intake net anders maar zelfde motor
+    Arm voor endgame wobble goal
+    (mogelijk ring op wobble? wss niet)
+
+Autonomous:
+    Ten eerste: voor elke mogelijke positie code of automatisch? Qua teams en positie.
+
+    Automatisch pathing - mijn idee: virtuele kaart hebben van gamefield, proximity sensoren gebruiken om verder te navigeren.
+    Automatisch schieten - kan ook gebruikt in driver period als het goed is
+
+
+
