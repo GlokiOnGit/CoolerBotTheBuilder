@@ -1,5 +1,10 @@
 Even lokaal  wat er nog moet geprogrammeerd:
 
+Organisatorisch: Zodra je aan een nieuwe feature gaat werken, maak een branch aan (dus bv. driver of
+driverSchietSysteem zodat ik weet dat je eraan werkt (ik doe hetzelfde). Commit & push die dan meteen
+zodat het op github te zien is. Elke keer dat je android studio opstart doe ff Ctrl+T om alles te
+syncen. Rechtsonder zie je alle branches (daar kan je ook nieuwe aanmaken).
+
 Driver period:
     Besturing (ook voor mecanum)
     Richten
@@ -14,8 +19,13 @@ Driver period:
 Autonomous:
     Ten eerste: voor elke mogelijke positie code of automatisch? Qua teams en positie.
 
+    Automatisch aantal ringen tellen
     Automatisch pathing - mijn idee: virtuele kaart hebben van gamefield, proximity sensoren gebruiken om verder te navigeren.
     Automatisch schieten - kan ook gebruikt in driver period als het goed is
+
+    Gameplan: In de class een makkelijk leesbare lijst functies hebben. Functies apart uitwerken. Daardoor
+    makkelijk leesbaar en te herorganiseren
+
 
 
 
